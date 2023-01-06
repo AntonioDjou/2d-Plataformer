@@ -3,7 +3,7 @@
 
 
 + Stage 1:
-<a href="https://ibb.co/nrdbVtT"><img src="https://i.ibb.co/F6ZKfC9/Stage1.jpg" alt="Stage1" border="0"></a>
+<br> <a href="https://ibb.co/nrdbVtT"><img src="https://i.ibb.co/F6ZKfC9/Stage1.jpg" alt="Stage1" border="0"></a> </br>
 
 + Pixel reconstruction of original Mario //  Pixel remake of Mario with updated coloring:
 <br><a href="https://imgbb.com/"><img src="https://i.ibb.co/B4QRTSc/Mario-Running1.png" alt="Mario-Running1" border="0"></a> <img align="right" a href="https://imgbb.com/"><img src="https://i.ibb.co/WfnR6RW/Mario-1.png" alt="Mario-1" border="0"></a> </br>
